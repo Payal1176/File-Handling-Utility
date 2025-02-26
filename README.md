@@ -28,3 +28,5 @@ By the end of my internship, I had contributed to multiple tasks, including opti
 In conclusion, my time at Codetec IT Solutions was incredibly enriching. The opportunity to work with Java, Spring Boot, and Hibernate, combined with the resources available to me, helped me refine my coding abilities and better understand the software development lifecycle. This experience not only strengthened my technical knowledge but also gave me a deeper appreciation for teamwork, problem-solving, and continuous learning in the tech industry.
 
 
+![Image](https://github.com/user-attachments/assets/fb748962-8936-4fbf-a85b-da781494f91b)
+
